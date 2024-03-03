@@ -2,7 +2,7 @@
 main:
   - title: "CV"
     url: /cv/
-    url:/files/academic cv for CSS.pdf
+    url:/Files/academic cv for CSS.pdf
     
   - title: "Publications"
     url: /publications/
