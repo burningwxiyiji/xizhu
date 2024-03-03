@@ -61,6 +61,8 @@ Example: editing a markdown file for a talk
 Hobbies
 ------
 Poem. I’ve published some of them on WeChat. [For example](https://mp.weixin.qq.com/s/NYfBgVDHK5eekF1ruojqxw). I also did the visual design for this page. And I ran a poetry club for youth through this account.
-Writing and Reading.I've tried to create some [multimedia content](https://mp.weixin.qq.com/s/4Rh4jz_zZBbla7NxmFHWoA).
+
+Writing and Reading. I've tried to create some [multimedia content](https://mp.weixin.qq.com/s/4Rh4jz_zZBbla7NxmFHWoA).
+
 Painting.
 ![Painting](/images/paintingprocreate.jpg)
