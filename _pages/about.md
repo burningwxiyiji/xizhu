@@ -9,8 +9,8 @@ redirect_from:
 
 ☀️ Hello!
 I'm currently a master's student at [East China University of Science and Technology](https://www.ecust.edu.cn/) specializing in sociology. My current research interests center around digital sociology and computational social science, with a primary focus on theoretical inquiry into the transformative effects of the digital age. 
+Recently work on [IC2S2](https://openreview.net/forum?id=Qee2WIcjiu&referrer=%5Bthe%20profile%20of%20Xizhu%20Zeng%5D(%2Fprofile%3Fid%3D~Xizhu_Zeng1)). This paper introduces Text Accumulation as a mechanism for online actor engagement and proposes a comprehensive stochastic dynamics model to understand its integrative nature and impact on collective behavior in digital spaces. collaborate with [FangYiKuang Ding](https://scholar.google.com.hk/citations?hl=zh-CN&user=zZtzLEEAAAAJ&view_op=list_works&gmla=AILGF5VfcWBlFxNDWbP35F-rxUwbniY918HvT8HKCT7EnftWJwJU1SiARyLcTL0epdyZRdbv9B0FwlRSfjN1gSwjGuOIcN_-WFpdjkDUadnPwsPFPPOEUmelq9Gf-e9fiqEmpt8ZjSwkXAQotnDTXHcwrxU6HknWd97UAA7B8GBrmKha12sMhIq9pl8). I'm currently working on an ABM paper focusing on collective action on the internet in China. 
 
-modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
