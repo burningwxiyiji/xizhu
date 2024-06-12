@@ -14,6 +14,7 @@ I'm a master's student at [East China University of Science and Technology](http
 Research Interests
 ======
 I am interested in the digital transformation of daily life, online social interaction, and its theorization. 
+
 Now I am focusing on the dynamics of online collectives, particularly the mechanisms linking micro and macro levels of analysis. My primary argument is that the online identity and self should be reconfigured in the context of collective action. The boundary between social interaction and collective action has blurred in social media, and the degree of self-integration of actors takes on an indeterminate character, which in turn explains the form of online collective action. There is a demand for theorizing the form of online behavior.
 
 I have already written a theoretical paper on the relationship between online collective action and the self (presented at The 9th Lilin Forum, CASS), as well as a study on digital vigilantism in China's online sphere (submitted to AEJMC 2024 Conference).
@@ -56,27 +57,30 @@ Relevant Programs
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.
 
+
 Academic Journey
 ======
 
 Motivation
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Reading**
+In my early research, I concentrated on the impact of ICT and software as infrastructure on daily life and government governance, primarily adopting perspectives from Science and Technology Studies (STS). This involved examining the tensions and changing relationships between technology and everyday life.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+To bridge the relationship between micro-level interactions and macro-level societal consequences, I explored Computational Social Science (CSS) methods and began writing theoretical articles on the changing nature of subjects within internet interactions, delving into digital activism. Driven by an interest in the nature of media itself, I also engaged in projects related to algorithm design and participated in research on internet platforms and platform labor.
+
+**Life Experience**
+
+online chat
+social contagion
+gender issue and social movement
 
 **Relevant Courses**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
+Contemporary Sociological Theory (95), Quantitative Research Methods I (94), Digital Sociology (95), Qualitative Research Methods I (97), Social Research Method (93),  Introduction of Sociology(95), Social Psychology I (97), General Psychology(95)
 
 Self Taught
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Since I 
 
 **Reading**
 
@@ -85,15 +89,18 @@ I have also created [a set of Jupyter notebooks](https://github.com/academicpage
 
 **Online Courses**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+- Programming for Everybody (Getting Started with Python) | University of Michigan, Coursera 2024
+- Social statistical analysis based on R | Tsinghua University, Xuetang X 2023
+- Frontier Theories in Communication Studies | Nanjing University, Netease Open Course 2021
+- Computational Social Science
 
 **Syllabus**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-
+syllabus of my seminar：
+actor-network theory
+sociology of knowledge
+digital activism
+Media Theory and phenomenology
 
 Hobbies
 ------
