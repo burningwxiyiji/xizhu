@@ -6,6 +6,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
 **The Relationship Between Swarms and the Self in the Digital Age**
 **Xizhuzeng**
 
@@ -20,9 +32,3 @@ Presented at The 9th Lilin Forum, Beijing, 2023.10.15
 
 • Summary: This paper analyzes the characteristics of the Internet and its formative impact on the self within the context of social action and technological assemblage. It argues that in certain Internet activities, the reflexive self—traditionally grounded in spatiotemporal continuity—is supplanted by a horizontal arrangement of symbols. This shift results in a cognitive deficit, as actions are unable to reference the individual’s identity
 
-{% include base_path %}
-
-
-{% for post in site.Publications %}
-  {% include archive-single.html %}
-{% endfor %}
