@@ -1,4 +1,11 @@
 
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
 **The Relationship Between Swarms and the Self in the Digital Age**
 **Xizhuzeng**
 
