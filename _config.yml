@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "protrait2.png"
+  avatar           : "proprait2.png"
   name             : "Xizhu Zeng"
   pronouns         : # example: "she/her"  
   bio              : "sociology student"
