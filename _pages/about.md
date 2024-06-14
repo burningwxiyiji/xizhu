@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-☀️ Hello!
+☀️ Hello, Welcome to my page!
+
 I'm a master's student at [East China University of Science and Technology](https://www.ecust.edu.cn/) specializing in sociology.I am a self-motivated student with a passion for digital sociology and computational social science.
 
 
@@ -80,7 +81,7 @@ This research primarily employs qualitative methods, including unstructured inte
 
 Commercial apps, due to their high degree of customization, are widely and diversely used by the public. Each app has its own audience, and everyone's mobile phone usage is highly personalized. For instance, a woman might use video or audio players more frequently, listening to them as background noise while doing household chores. This observation sparked my interest in hyperconnectivity, as discussed in Brubaker's works, and related books by Sherry Turkle, leading to some insights.
 
-**Local Practice and Organizational Logic of Digitalization of Grassroots Governance**
+**The Digital Transformation of Local Governance and Why People Accept It**
 
 Insulting China has been a viral term on social media. One of the controversies pointed out the term is being generalization - manifested in the expansion of the context use and indiscriminate targeting of the attack. This study attempts to employ a social physics model called “shockwave” to provide a mechanistic explanation. Broadly we investigate how an individual’s everyday nationalism decisions evolve into collective actions. Digital vigilantism theory and digital nationalism pictured that nationalists’ mediated “policing” (everyday censorship, struggle, and decision) driven by identity and justice/moral concern to the mediated “denunciation”, and then, within the conditions of mediated visibility to evolve as a societal-level phenomenon. We test the research hypothesis and compare the simulation results with the historical event data.
 
@@ -118,13 +119,7 @@ Reading
 ------
 Since I 
 
-**Syllabus**
-
-syllabus of my seminar：
-actor-network theory
-sociology of knowledge
-digital activism
-Media Theory and phenomenology
+notion page + 
 
 **notes**
 
