@@ -15,11 +15,7 @@ Research Interests
 ======
 I am interested in the digital transformation of daily life, online social interaction, and its theorization. 
 
-In my early research, I concentrated on the impact of ICT and software as infrastructure on daily life and government governance, primarily adopting perspectives from Science and Technology Studies (STS). This involved examining the tensions and changing relationships between technology and everyday life.
-
-To bridge the relationship between micro-level interactions and macro-level societal consequences, I explored Computational Social Science (CSS) methods and began writing theoretical articles on the changing nature of subjects within internet interactions, delving into digital activism. Driven by an interest in the nature of media itself, I also engaged in projects related to algorithm design and participated in research on internet platforms and platform labor.
-
-Now I am focusing on the dynamics of online collectives, particularly the mechanisms linking micro and macro levels of analysis. My primary argument is that the online identity and self should be reconfigured in the context of collective action. The boundary between social interaction and collective action has blurred in social media, and the degree of self-integration of actors takes on an indeterminate character, which in turn explains the form of online collective action. There is a demand for theorizing the form of online behavior.
+Now I am focusing on the dynamics of online collectives, particularly the mechanisms linking micro and macro levels of analysis. My primary argument is that the online identity and self should be reconfigured in the context of collective action. The boundary between social interaction and collective action has blurred in social media, and the degree of self-integration of actors takes on an indeterminate character, which in turn explains the form of online collective action. 
 
 I have already written a theoretical paper on the relationship between online collective action and the self (presented at The 9th Lilin Forum, CASS), as well as a study on digital vigilantism in China's online sphere (submitted to AEJMC 2024 Conference).
 
@@ -30,14 +26,17 @@ Currently, I am using Agent-Based Modeling (ABM) simulations to validate my theo
 Current Works
 ======
 
-Specifically, my research focuses on understanding (1) how people make decisions on media selection? (2) how a technology-shaped environment functions, where the environment is regarded as a market-based situation: demand, supply, and currency(“attention”) (3) how political power is engaged in the “mediatization” process(e.g. by social curation and circulation) and its unexpected consequence.
-
 Theoretical Exploration of Dynamics of Online Collective Action
 ------
 
 The interpretation of individuals acting in collectives in established research is often simplified by rational choice modeling, suspending the intrinsic dimensions of the individual and delineating a dichotomy between micro-mental processes and macro-actions and consequences. Returning to the common-sense meaning of the self, this paper argues that social media has enabled a deviation between action and the formation of identity. In digital action, the degree of self-integration of actors takes on an indeterminate character, which in turn explains the form of online collective action, thus providing an explanatory framework for online interactions and the self.
 
-This work can be referenced in the [draft](files/draft of text accumulation.pdf)
+The article proposes a mechanism that combines graph theory (the power-law distribution of information on the internet) and empirical research from social psychology on self. The concept of self-integration relates to the narrative self. I proposed this concept in another paper.
+
+This article first constructs the concepts and theoretical hypotheses, proposing mechanisms that my collaborator formalizes mathematically. Finally, we use agent-based modeling (ABM) and real-case data from networks for validation and calibration.
+
+This work can be referenced in the [draft](files/draft of text accumulation.pdf).
+
 
 Empirical Research of Online Collective Action
 ------
@@ -46,7 +45,7 @@ I am particularly interested in feminist movements online and the polarization o
 
 **Trolls and Polarization: Gender Antagonism on social media**
 
-I first conducted a case study on the recent trend of gender antagonism online. In one case, a couple was believed to have faced a situation where the woman deceived the man, leading to the man's suicide. This incident aroused anger and victim paranoia among a largely male group online, sparking a wave of misogynistic comments on the Chinese internet. I am currently scraping relevant data to further refine my theory.
+I first conducted a case study on the recent trend of gender antagonism online. In one case, a couple was believed to have faced a situation where the woman deceived the man, leading to the man's suicide. This incident aroused anger and victim paranoia among a largely male group online, sparking a wave of misogynistic comments on the Chinese internet. I am currently scraping relevant data to refine my theory further.
 
 
 **Digital Nationalism and Vigilantism: Insulting China**
@@ -57,13 +56,18 @@ In China, mainstream values are predominant. Therefore, discussions about insult
 
 Insulting China has been a viral term on social media. One of the controversies pointed out the term is being generalized - manifested in the expansion of the context use and indiscriminate targeting of the attack. This study attempts to employ a social physics model called “shockwave” to provide a mechanistic explanation. Broadly we investigate how an individual’s everyday nationalism decisions evolve into collective actions. Digital vigilantism theory and digital nationalism pictured that nationalists’ mediated “policing” (everyday censorship, struggle, and decision) driven by identity and justice/moral concern to the mediated “denunciation”, and then, within the conditions of mediated visibility to evolve as a societal-level phenomenon. We test the research hypothesis and compare the simulation results with the historical event data.
 
-Our research on insults to China involves collecting data on incidents reported and evaluated as insults over the past four years and creating a publicly accessible database of these events. I plan to release this data in about a month, publish it on GitHub, and synchronize it on my personal website.
+Our research on insults to China involves collecting data on incidents reported and evaluated as insults over the past four years and creating a publicly accessible database of these events. I plan to *release this data in about a month, publish it on GitHub, and synchronize it on my personal website*.
 
 
 Academic Journey
 ======
 
 My research is not entirely within computational communication or political communication. I intend to continue studying the various ideologies and structures of authority related to these topics, understanding how they interact with algorithms and the relationship between online opinions and real-world social beliefs and knowledge changes.
+
+In my early research, I concentrated on the impact of ICT and software as infrastructure on daily life and government governance, primarily adopting perspectives from Science and Technology Studies (STS). This involved examining the tensions and changing relationships between technology and everyday life.
+
+To bridge the relationship between micro-level interactions and macro-level societal consequences, I explored Computational Social Science (CSS) methods and began writing theoretical articles on the changing nature of subjects within internet interactions, delving into digital activism. Driven by an interest in the nature of media itself, I also engaged in projects related to algorithm design and participated in research on internet platforms and platform labor.
+
 
 Original Question: The Digital Transformation of Daily Life
 ------
