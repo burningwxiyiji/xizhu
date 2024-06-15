@@ -1,6 +1,6 @@
 ---
 title: "Digital Action Dynamics"
-excerpt: "Contains my relevant works on online interaction and polarization <br/><img src='/images/textACCUabstract.jpg'>"
+excerpt: "Contains my relevant works on online interaction and polarization <br/><img src='/xizhu/images/textACCUabstract.jpg'>"
 collection: portfolio
 ---
 
@@ -9,7 +9,7 @@ collection: portfolio
 Summary: This paper analyzes the characteristics of the Internet and its formative impact on the self within the context of social action and technological assemblage. It argues that in certain Internet activities, the reflexive self—traditionally grounded in spatiotemporal continuity—is supplanted by a horizontal arrangement of symbols. This shift results in a cognitive deficit, as actions are unable to reference the individual’s identity
 
 here is a very brief diagram of online self inspired by Brubaker：
-<img src="/images/self1.jpg" alt="">
+<img src="/xizhu/images/self1.jpg" alt="">
 
 
 ## The Relationship Between Swarms and the Self in the Digital Age
@@ -22,6 +22,6 @@ Summary: Returning to the commonsense meaning of the self, this paper argues tha
 Summary: This study is an attempt to formalize my previous theoretical exploration of the self. It introduces Text Accumulation as a mechanism for online actor engagement. It characterizes the dissemination of information across public internet platforms and its influence on actors' actions.
 
 We use Agent-Based Modeling for bridge the individual's action and its macro consequence：
-<img src="/images/textsimulation.jpg" alt="">
+<img src="/xizhu/images/textsimulation.jpg" alt="">
 
 You can view more details in this [draft](draft of text accumulation.pdf).
