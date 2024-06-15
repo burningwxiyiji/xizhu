@@ -10,7 +10,8 @@ Summary: This paper analyzes the characteristics of the Internet and its formati
 
 Here is a very brief diagram of online self inspired by Brubaker：
 
-![pic].(/xizhu/images/self1.jpg)
+<img src="/xizhu/images/self1.jpg">
+
 
 ## The Relationship Between Swarms and the Self in the Digital Age
 
@@ -23,6 +24,6 @@ Summary: This study is an attempt to formalize my previous theoretical explorati
 
 We use Agent-Based Modeling for bridge the individual's action and its macro consequence：
 
-![pic].(/xizhu/images/textsimulation.jpg)
+<img src="/xizhu/images/textsimulation.jpg" alt="Simulation of Text Accumulation">
 
 You can view more details in this [draft](draft of text accumulation.pdf).
