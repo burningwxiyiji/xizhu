@@ -1,6 +1,6 @@
 ---
 title: "Extracurricular Academic Activities"
-excerpt: "Short description of Extracurricular <br/><img src='/xizhu/images/postbig.jpg'>"
+excerpt: "<br/><img src='/xizhu/images/postbig.jpg'>"
 collection: portfolio
 ---
 
@@ -8,15 +8,17 @@ collection: portfolio
 
 Xinshilin is an interdisciplinary academic organization primarily involving philosophy, history, and sociology. It regularly hosts academic lectures organized by students. During my time at the school, I [served as a host](https://mp.weixin.qq.com/s/i20AQXeGvd9Cs2AsdXI5rA) and [poster designer](https://mp.weixin.qq.com/s/1X1-9aOa6m-rDfqkzxD-qQ), and also [delivered lectures](https://mp.weixin.qq.com/s/_2HwwR-RKzrP0nFCoY2tEA).
 
+
 ## Academic Conference
 
 [The 9th Lilin Conference](https://mp.weixin.qq.com/s/kBLveoJwuFgBhBEmFrOMxQ), which is the highest level conference for young scholars in China, held by CASS. This year's forum is the first time that master's students have been selected to participate.
 
 [School Forum](https://mp.weixin.qq.com/s/OzE_Wx4LdmAf3ZyDlIUsQw )
 
+
 ## Extracurricular Seminar
 
-Several Online Seminar
+Several Online Seminars...
 
 ### I organized it
 
@@ -51,9 +53,6 @@ I teach a [media theory course](https://mp.weixin.qq.com/s/28jBymxdqSeEs6MSAFY2W
 [writing as a public practice](https://mp.weixin.qq.com/s/JiFQmR_trOKGdNt37w4Zvw)
 
 
-## poetry
-
-Won the first prize in the New Poetry category at the [Fifth Xuantian Poetry Society Competition](https://mp.weixin.qq.com/s/8Frpn5hehtHJ8AGzius4ig).
 
 
 
