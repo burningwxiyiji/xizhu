@@ -88,15 +88,18 @@ Insulting China has been a viral term on social media. One of the controversies 
 
 Method Training
 ------
+
+I 
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.
 
 **Research on Digital Labor of Platform Young Knowledge Workers**
 
-Insulting China has been a viral term on social media. One of the controversies poi
 
 **Impact of Digital Information on Residents’ Income**
 
+
 **Research on Digital Labor of Platform Young Knowledge Workers**
+
 
 **Computational social Science**
 
@@ -113,21 +116,6 @@ Contemporary Sociological Theory (95), Quantitative Research Methods I (94), Dig
 Programming for Everybody (Getting Started with Python) | University of Michigan, Coursera 2024
 Social statistical analysis based on R | Tsinghua University, Xuetang X 2023
 Frontier Theories in Communication Studies | Nanjing University, Netease Open Course 2021
-
-
-Reading
-------
-Since I 
-
-notion page + 
-
-**notes**
-
-syllabus of my seminar：
-actor-network theory
-sociology of knowledge
-digital activism
-Media Theory and phenomenology
 
 
 Hobbies
