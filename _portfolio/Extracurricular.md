@@ -10,4 +10,4 @@ This is some content under the first subheading.
 
 ## Subheading 2
 
-This is some content under the second subheading.
+! [This is some content under the second subheading](ICTsig.png).
