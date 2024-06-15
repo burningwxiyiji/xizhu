@@ -9,19 +9,20 @@ redirect_from:
 
 ☀️ Hello, Welcome to my page!
 
-I'm a master's student at [East China University of Science and Technology](https://www.ecust.edu.cn/) specializing in sociology.I am a self-motivated student with a passion for digital sociology and computational social science.
+I'm a master's student at [East China University of Science and Technology](https://www.ecust.edu.cn/) specializing in sociology. I am a self-motivated student with a passion for digital sociology and computational social science.
 
 
 Research Interests
 ======
-I am interested in the digital transformation of daily life, online social interaction, and its theorization. 
+*digital activism, social contagion, STS, digitization, sociology of knowledge, social movements, gender*
+
+I am interested in the digital transformation of daily life, online social interaction, and its theorization. The major question I focus on is: How does change happen? The path involves examining everyday life and micro-level individual behaviors (including interactions and the use of technology by grassroots governments) to understand macro-level digitization. In other words, how does technology interact with larger social systems?
 
 Now I am focusing on the dynamics of online collectives, particularly the mechanisms linking micro and macro levels of analysis. My primary argument is that the online identity and self should be reconfigured in the context of collective action. The boundary between social interaction and collective action has blurred in social media, and the degree of self-integration of actors takes on an indeterminate character, which in turn explains the form of online collective action. 
 
 I have already written a theoretical paper on the relationship between online collective action and the self (presented at The 9th Lilin Forum, CASS), as well as a study on digital vigilantism in China's online sphere (submitted to AEJMC 2024 Conference).
 
 Currently, I am using Agent-Based Modeling (ABM) simulations to validate my theoretical explanations collaborating with [FangYiKuang Ding](https://scholar.google.com.hk/citations?hl=zh-CN&user=zZtzLEEAAAAJ&view_op=list_works&gmla=AILGF5VfcWBlFxNDWbP35F-rxUwbniY918HvT8HKCT7EnftWJwJU1SiARyLcTL0epdyZRdbv9B0FwlRSfjN1gSwjGuOIcN_-WFpdjkDUadnPwsPFPPOEUmelq9Gf-e9fiqEmpt8ZjSwkXAQotnDTXHcwrxU6HknWd97UAA7B8GBrmKha12sMhIq9pl8). Simulation helps bridge the gap between micro and macro research perspectives. I am also interested in exploring the use of LLM in social simulation.
-
 
 
 Current Works
@@ -47,7 +48,6 @@ I am particularly interested in feminist movements online and the polarization o
 **Trolls and Polarization: Gender Antagonism on social media**
 
 I first conducted a case study on the recent trend of gender antagonism online. In one case, a couple was believed to have faced a situation where the woman deceived the man, leading to the man's suicide. This incident aroused anger and victim paranoia among a largely male group online, sparking a wave of misogynistic comments on the Chinese internet. I am currently scraping relevant data to refine my theory further.
-
 
 **Digital Nationalism and Vigilantism: Insulting China**
 
@@ -83,29 +83,21 @@ Commercial apps, due to their high degree of customization, are widely and diver
 
 **The Digital Transformation of Local Governance and Why People Accept It**
 
-Insulting China has been a viral term on social media. One of the controversies pointed out the term is being generalization - manifested in the expansion of the context use and indiscriminate targeting of the attack. This study attempts to employ a social physics model called “shockwave” to provide a mechanistic explanation. Broadly we investigate how an individual’s everyday nationalism decisions evolve into collective actions. Digital vigilantism theory and digital nationalism pictured that nationalists’ mediated “policing” (everyday censorship, struggle, and decision) driven by identity and justice/moral concern to the mediated “denunciation”, and then, within the conditions of mediated visibility to evolve as a societal-level phenomenon. We test the research hypothesis and compare the simulation results with the historical event data.
+In this study, I refined my research question to focus on how digital technologies are functioning in grassroots governance in remote areas where local knowledge is traditionally used to solve problems. The central government has promoted many administrative systems, but in remote areas, these systems are often nominal.
 
 
-Method Training
+Methodology
 ------
 
-I 
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.
+Methodologically, I lean toward both quantitative and qualitative approaches. My research is problem-oriented and has a strong theoretical preference.
 
-**Research on Digital Labor of Platform Young Knowledge Workers**
+In my initial studies, I predominantly used qualitative and mixed research methods. During my undergraduate studies, I learned case study methods(2021), field research techniques(2021), and quantitative research using SPSS(2021) and stata(2023).
 
+My learning journey includes basic maths[calculus(2020)], traditional quantitative research methods(survey, content analysis and experiment)(2021), quatitative social science(2022), social statistics(2022), DID method(2023).
 
-**Impact of Digital Information on Residents’ Income**
+To analyze social media actors and bridge the gap between micro and macro research perspectives, I developed a strong interest in computational social science in my subsequent research.
 
-
-**Research on Digital Labor of Platform Young Knowledge Workers**
-
-
-**Computational social Science**
-
-
-Course
-------
+I have a strong passion for computational social sciences, in recent years, I have started to learn R programming(2023), intro to computational social science(2023), agent-based modeling(2023), python(2024)…
 
 **Relevant Courses**
 
@@ -116,6 +108,10 @@ Contemporary Sociological Theory (95), Quantitative Research Methods I (94), Dig
 Programming for Everybody (Getting Started with Python) | University of Michigan, Coursera 2024
 Social statistical analysis based on R | Tsinghua University, Xuetang X 2023
 Frontier Theories in Communication Studies | Nanjing University, Netease Open Course 2021
+
+**Self-Taught community**
+
+Github, [panda documentation](https://pandas.pydata.org/docs/), Google Colab, freecodecamp, [huggingface](https://huggingface.co/)
 
 
 Hobbies
