@@ -1,6 +1,6 @@
 ---
 title: "Digital Action Dynamics"
-excerpt: "Contains my relevant works on online action <br/><img src='/xizhu/images/textACCUabstract.jpg'>"
+excerpt: "Contains my relevant works on online action. <br/><img src='/xizhu/images/textACCUabstract.jpg'>"
 collection: portfolio
 ---
 
