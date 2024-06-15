@@ -1,6 +1,6 @@
 ---
 title: "Impact of ICT and Inequity"
-excerpt: "Contains a  <br/><img src='/xizhu/images/ICTsig.png'>"
+excerpt: "Contains a series of studies <br/><img src='/xizhu/images/ICTsig.png'>"
 collection: portfolio
 ---
 
