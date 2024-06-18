@@ -24,7 +24,7 @@ In this study, I refined my research question to focus on how digital technologi
 
 During the pandemic, the health code, as a highly mandatory technical system, was implemented in various places. The introduction of this technology requires the creation of a new social process, and maintaining the habits formed by it incurs costs. In remote areas, the health code has been abandoned after lockdowns were lifted, whereas in Shanghai, due to higher technical capabilities and integrated systems across departments, the health code has been incorporated into the medical system, facilitating the healthcare process.
 
-Subsequently, I conducted research on waste classification in Zhejiang and wrote a field report, mainly illustrating how these extraordinary requirements are integrated with technical systems to shape new social processes. This report is called [How Are High-Precision Requirments Implemented in Daily Life](How Are High-Precision Requirments Implemented in Daily Life.pdf).
+Subsequently, I conducted research on waste classification in Zhejiang and wrote a field report, mainly illustrating how these extraordinary requirements are integrated with technical systems to shape new social processes. This report is called [How Are High-Precision Requirments Implemented in Daily Life](/xizhu/files/How Are High-Precision Requirments Implemented in Daily Life.pdf).
 
 These works partially address the question: How does technology change everyday life? Since this part of the research became overly tied to governance, straying from my initial focus on everyday life, I subsequently shifted my research focus to social media and platforms.
 
