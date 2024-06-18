@@ -20,7 +20,7 @@ digital dividends based on statistical data.
 
 <img src="/xizhu/images/ICTsig.png" alt="Visulization of Regional Differences">
 
-A [course paper](files/Regional Differences in the Impact of Digital Information.pdf)(in Chinese) can be seen.
+A [course paper](/xizhu/files/Regional Differences in the Impact of Digital Information.pdf)(in Chinese) can be seen.
 
 
 ## Characteristics of Platform Workers
@@ -29,7 +29,7 @@ This study conducted a survey(N=1354) of new employment groups, including variou
 
 <img src="/xizhu/images/Platformworkerdescription.jpg" alt="Sample of descriptive analysis using R">
 
-Click here for a [brief report(Chinese version because we are still working on it)](/files/Selected Platform Workers Report.pdf).
+Click here for a [brief report(Chinese version because we are still working on it)](/xizhu/files/Selected Platform Workers Report.pdf).
 
 
 ## User Habits and Video Production on TikTok
