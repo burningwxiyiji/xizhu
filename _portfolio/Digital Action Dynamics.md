@@ -26,4 +26,4 @@ We use Agent-Based Modeling for bridge the individual's action and its macro con
 
 <img src="/xizhu/images/textsimulation.jpg" alt="Simulation of Text Accumulation">
 
-You can view more details in this [draft](draft of text accumulation.pdf).
+You can view more details in this [draft](/xizhu/files/draft of text accumulation.pdf).
