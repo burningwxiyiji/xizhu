@@ -14,9 +14,9 @@ I'm a master's student at [East China University of Science and Technology](http
 
 Research Interests
 ======
-*interactional polarization, digital activism, social contagion, sociology of knowledge, STS, gender*
+*affective polarization, online hostility, digital activism, social contagion, sociology of knowledge, gender*
 
-Now I am focusing on the dynamics of online collectives, particularly the mechanisms linking micro and macro levels of analysis. The boundary between social interaction and collective action has blurred in social media, and the degree of self-integration of actors takes on an indeterminate character, which in turn explains the form of online collective action. 
+My research examines the complex impacts of hate speech and affective polarization on social media, focusing on their effects on public knowledge, particularly regarding gender issues. By conceptualizing online text as both opinion and action, I aim to explore how hostile discourse fosters collective identity, intensifies polarization, and influences societal norms.
 
 I have already written a theoretical paper on the relationship between online collective action and the self (presented at The 9th Lilin Forum, CASS), as well as a study on digital vigilantism in China's online sphere.
 
@@ -68,11 +68,9 @@ Methodologically, I lean toward both quantitative and qualitative approaches. My
 
 In my initial studies, I predominantly used qualitative and mixed research methods. During my undergraduate studies, I learned case study methods(2021), field research techniques(2021), and quantitative research using SPSS(2021).
 
-My learning journey includes basic maths[calculus(2020)], traditional quantitative research methods(survey, content analysis and experiment)(2021), quatitative social science(2022), social statistics(2022), DID method(2023).
+My learning journey includes traditional quantitative research methods(survey, content analysis and experiment)(2021), quatitative social science(2022), social statistics(2022).
 
-To analyze social media actors and bridge the gap between micro and macro research perspectives, I developed a strong interest in computational social science in my subsequent research.
-
-I have a strong passion for computational social sciences, in recent years, I have started to learn R programming(2023), intro to computational social science(2023), agent-based modeling(2023), python(2024)…
+To analyze social media actors and bridge the gap between micro and macro research perspectives, I developed a strong interest in computational social science in my subsequent research. I have started to learn R programming(2023), intro to computational social science(2023), agent-based modeling(2023), python(2024) and social network analysis(2024)…
 
 **Relevant Courses**
 
