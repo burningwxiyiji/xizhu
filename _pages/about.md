@@ -9,7 +9,7 @@ redirect_from:
 
 ☀️ Hello, Welcome to my page!
 
-I'm a master's student at [East China University of Science and Technology](https://www.ecust.edu.cn/) specializing in sociology. I am a self-motivated student with a passion for digital sociology and computational social science.
+I'm a master's student at [East China University of Science and Technology](https://www.ecust.edu.cn/) specializing in sociology. I am a self-motivated student with a passion for digital sociology and political communication.
 
 
 Research Interests
