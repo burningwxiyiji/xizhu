@@ -33,25 +33,32 @@ This paper argues that social media has enabled a deviation between action and t
 
 This article first constructs the concepts and theoretical hypotheses, proposing mechanisms that my collaborator formalizes mathematically. Finally, we use agent-based modeling (ABM) and real-case data from networks for validation and calibration.
 
-This work can be referenced in the [draft](files/draft of text accumulation.pdf).
+This work can be referenced in the [draft](files/writing sample.pdf).
 
 
-Empirical Research of Online Collective Action
+Empirical Research of Online Collective Action in Process
 ------
 
 I am particularly interested in feminist movements online and the polarization of gender discourse. Therefore, I first conducted a case study on the recent trend of gender antagonism online. Regarding self-identity and the evolution of actions on the internet, digital activism and digital nationalism have both been extensively discussed. 
 
 **Trolls and Polarization: Gender Antagonism on social media**
 
-This study aims to analyze how these communities, each with distinct gender norms, use unique discourse strategies when
-interacting with outsiders. It provides an alternative perspective on gender culture in everyday contexts, rather than
-through serious political issues that evoke a strong sense of gender identity.
+This study aims to analyze how these communities, each with distinct gender norms, use unique discourse strategies when interacting with outsiders. It provides an alternative perspective on gender culture in everyday contexts, rather than through serious political issues that evoke a strong sense of gender identity.
+
+
+**Online Hate Speech and The Formation of Group Identity**
+
+My research aims to explore the production of hate speech in online communities of marginalized or self-identified vulnerable groups, examining why and how individuals form new group identities when these identities give rise to in-group aggression, and whether or not they result in out-group hostility. For example, the incels assume themselves as victims of feminism and construct misogyny discourse. I am interested in how discursive strategies (e.g., memes or non-serious rhetoric) shape the political perceptions of these groups.
+
+To address these questions, I aim to use a research framework that integrates cultural sociology with inferential network analysis(Cranmer, Desmarais, & Morgan, 2020) to investigate the interplay between identity-role interactions among community members and the resulting discursive effects, such as the emergence of hate speech within subcultures.
+
+
+Other
+------
 
 **Unstructured Actions in Social Media: Understanding the Human Actor Within Digital Activism**
 
-In the absence of other social organizations, the widespread dissemination of particular online discourses and the lack of
-political influence is virtually isomorphic. This article aims to unravel this isomorphism by revisiting the relationship
-between the individual and digital action, especially textual actions such as tweets.
+In the absence of other social organizations, the widespread dissemination of particular online discourses and the lack of political influence is virtually isomorphic. This article aims to unravel this isomorphism by revisiting the relationship between the individual and digital action, especially textual actions such as tweets.
 
 
 Academic Journey
