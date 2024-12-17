@@ -22,7 +22,7 @@ author_profile: true
 
 **Xizhuzeng**
 
-Under review by Exploration and Free Views(in Chinese) 
+Under reviewed by Exploration and Free Views(in Chinese) 
 
 • Summary: Returning to the commonsense meaning of the self, this paper argues that social media has enabled a deviation between action and the formation of identity. In digital action, the degree of self-integration of actors takes on an indeterminate character, which in turn explains the form of online collective action.
 
