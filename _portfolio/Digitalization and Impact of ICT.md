@@ -29,8 +29,6 @@ I conducted two analyses (N=1,354, N=1,500) on various digital labor groups in C
 
 <img src="/xizhu/images/Platformworkerdescription.jpg" alt="Sample of descriptive analysis using R">
 
-Click here for a [brief report(Chinese version because we are still working on it)](/xizhu/files/Selected Platform Workers Report.pdf).
-
 
 ## TikTok User Practices and Production
 
