@@ -25,10 +25,11 @@ Current Projects
 **1. Dynamics of Digital Action: A Theoretical and Computational Approach**
 This project develops a framework explaining the fragmentation of online self and action. I co-designed the theoretical model, conducted the literature review, and contributed to ABM simulations.
 This work can be referenced in the [draft](files/writing sample.pdf).
+
 → Early theoretical work was presented at the 9th Lilin Forum (CASS)
 
 **2. Digital Vigilantism in China**
-Combining digital nationalism and digital activism literature, this project investigates belief shifts in online campaigns. I led literature reviews, coordinated RA recruitment, and built a public dataset.
+Combining digital nationalism and digital activism literature, this project investigates belief shifts in online campaigns. I led literature reviews, coordinated the RA group, and built a dataset.
 
 **3. Trolls and Polarization: Gender Antagonism on Chinese Social Media**
 A mixed-method study of gender conflict online, using text mining and clustering to identify divergent discursive strategies. I conducted scraping, labeling, and early-stage network analysis.
