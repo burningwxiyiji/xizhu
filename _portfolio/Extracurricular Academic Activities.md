@@ -51,7 +51,7 @@ The 7th Aura Seminar *[Theorizing in Social Science](https://mp.weixin.qq.com/s/
 
 ## NGO: Gezhi Public Education
 
-I teach a [media theory course](https://mp.weixin.qq.com/s/28jBymxdqSeEs6MSAFY2Ww) in it.
+I taught a [media theory course](https://mp.weixin.qq.com/s/28jBymxdqSeEs6MSAFY2Ww).
 
 
 ## Posts on My Personal Wechat Public Account
