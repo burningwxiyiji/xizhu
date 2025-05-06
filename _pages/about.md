@@ -43,8 +43,11 @@ Methods
 ------
 
 Quantitative: survey design, correlational stats, ANOVA, factor analysis
+
 Qualitative: fieldwork, interviews, participatory observation, unstructured coding
+
 Computational: R (tidyverse, lavaan, ggplot2), Python (pandas), ABM, basic social network analysis
+
 Platforms: Qualtrics, Git, Google Colab, [huggingface](https://huggingface.co/), [panda documentation](https://pandas.pydata.org/docs/), freecodecamp
 
 
@@ -52,7 +55,10 @@ Extracurricular
 ======
 
 Poetry writing: ran a youth poetry club on WeChat, [Example](https://mp.weixin.qq.com/s/NYfBgVDHK5eekF1ruojqxw)
+
 Multimedia writing on WeChat: [multimedia content](https://mp.weixin.qq.com/s/4Rh4jz_zZBbla7NxmFHWoA)
+
 Painting
+
 Music: Post-punk, glitch, and techno
 
