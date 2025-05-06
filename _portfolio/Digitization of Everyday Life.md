@@ -1,6 +1,6 @@
 ---
 title: "Digitization of Everyday Life"
-excerpt: "How change happens? Social Interaction and Grassroot Governance"
+excerpt: "How does change happen? Social Interaction and Grassroots Governance"
 collection: portfolio
 ---
 
@@ -8,33 +8,23 @@ This series of studies shows my initial concern.
 
 ## The Digital Transformation of Interpersonal Relationships in Rural Areas
 
-This is my first personal project. 
+As the project lead, I secured a 10,000 RMB grant from Hunan Province (Item No. S202010530040). I designed a mixed-methods study and conducted month-long fieldwork in multiple rural villages. The research began with participatory observation and unstructured interviews, followed by a questionnaire for descriptive analysis.
 
-I applied for this project and successfully secured a 10,000 RMB grant from Hunan Province(Item No.S202010530040) as the project leader. I designed the research and conducted fieldwork in multiple villages and towns in rural areas for about a month.
-
-The research adopted a mixed-methods approach, starting with participatory observation and unstructured interviews. Subsequently, we designed a questionnaire for descriptive statistics and selected two villages and towns for ongoing research and in-depth interviews.
-
-The study found that in mountainous villages, people constructed online group chats based on their geographic locations. Even those who had bought houses elsewhere continued to participate in group chats according to their original residential locations, acting as political representatives and sponsors of collective development.
-
-The research later shifted my focus toward the role of media in spatiality.
 
 ## Local Practice and Organizational Logic of Digitalization of Grassroots Governance
 
-In this study, I refined my research question to focus on how digital technologies are functioning in grassroots governance in remote areas where local knowledge is traditionally used to solve problems. The central government has promoted many administrative systems, but in remote areas, these systems are often nominal. 
+This study examined how digital technologies are embedded in grassroots governance, particularly in areas reliant on local knowledge. During the pandemic, the implementation of the health code illustrated how technical systems restructure social processes. I compared regions where the system was abandoned post-lockdown with urban areas like Shanghai, where it became part of the healthcare infrastructure. 
 
-During the pandemic, the health code, as a highly mandatory technical system, was implemented in various places. The introduction of this technology requires the creation of a new social process, and maintaining the habits formed by it incurs costs. In remote areas, the health code has been abandoned after lockdowns were lifted, whereas in Shanghai, due to higher technical capabilities and integrated systems across departments, the health code has been incorporated into the medical system, facilitating the healthcare process.
-
-Subsequently, I conducted research on waste classification in Zhejiang and wrote a field report, mainly illustrating how these extraordinary requirements are integrated with technical systems to shape new social processes. This report is called [How Are High-Precision Requirments Implemented in Daily Life](/xizhu/files/How Are High-Precision Requirments Implemented in Daily Life.pdf).
-
-These works partially address the question: How does technology change everyday life? Since this part of the research became overly tied to governance, straying from my initial focus on everyday life, I subsequently shifted my research focus to social media and platforms.
+I also conducted fieldwork on waste classification in Zhejiang, analyzing how high-precision policy demands are sustained through digital systems. [Read report(in Chinese)](https://github.com/user-attachments/files/20052348/default.pdf)
 
 
-## Research on Home Service Platform Companies in Shanghai
+## Research on Gig Labour
 
-In this study, I engaged with various institutions in the home service industry and experienced the development of industry planning through academia-industry collaboration, gaining insight into how industry standards are formed. The home service industry has long been discriminated against and faces high labor mobility. Currently, industry associations and leading enterprises are jointly establishing rules to standardize the industry.
+<img width="415" alt="image" src="https://github.com/user-attachments/assets/dab3c920-42c4-465d-b8eb-a890feb84f4b" />
 
-As a participant in this process, I aim to explore the shaping of professional knowledge within the industry and the formation of brands, as well as to understand the role of platforms and digital technologies in this context.
+<img width="372" alt="image" src="https://github.com/user-attachments/assets/588f5692-8977-4496-86cb-a3ff13b74d04" />
 
-This work is still ongoing.
+<img width="462" alt="image" src="https://github.com/user-attachments/assets/5983261e-91a1-47f6-9014-1207df4b0b7b" />
+
 
 
