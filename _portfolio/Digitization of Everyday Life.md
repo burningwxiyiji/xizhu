@@ -1,5 +1,5 @@
 ---
-title: "Digitization of Everyday Life"
+title: "Digitization of Life, Labour and Governance"
 excerpt: "How does change happen? Social Interaction and Grassroots Governance"
 collection: portfolio
 ---
