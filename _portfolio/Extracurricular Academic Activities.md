@@ -11,10 +11,14 @@ Xinshilin is an interdisciplinary academic organization primarily involving phil
 
 ## Academic Conference
 
-[The 9th Lilin Conference](https://mp.weixin.qq.com/s/kBLveoJwuFgBhBEmFrOMxQ), which is the highest level conference for young scholars in China, held by CASS. This year's forum is the first time that master's students have been selected to participate.
+[The 9th Lilin Conference](https://mp.weixin.qq.com/s/kBLveoJwuFgBhBEmFrOMxQ), which is the highest-level conference for young scholars in China, held by CASS. This year's forum is the first time that master's students have been selected to participate.
 
 [School Forum](https://mp.weixin.qq.com/s/OzE_Wx4LdmAf3ZyDlIUsQw )
 
+
+## Vedio
+
+Academic promotion: 视频号：罗汉堂观点
 
 ## Extracurricular Seminar
 
