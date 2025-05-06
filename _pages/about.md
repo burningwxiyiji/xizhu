@@ -50,15 +50,15 @@ Computational: R (tidyverse, lavaan, ggplot2), Python (pandas), ABM, basic socia
 
 Platforms: Qualtrics, Git, Google Colab, [huggingface](https://huggingface.co/), [panda documentation](https://pandas.pydata.org/docs/), freecodecamp
 
+### Research Skills Overview
 
-Extracurricular
-======
+| Type           | Skills / Tools                                                                 |
+|----------------|---------------------------------------------------------------------------------|
+| **Quantitative** | Survey design, correlational statistics, ANOVA, factor analysis                |
+| **Qualitative**  | Fieldwork, interviews, participatory observation, unstructured coding         |
+| **Computational**| R (tidyverse, lavaan, ggplot2), Python ([panda documentation](https://pandas.pydata.org/docs/)), ABM, basic social network analysis |
+| **Platforms**    | Qualtrics, Git, Google Colab, [huggingface](https://huggingface.co/), pandas documentation, freeCodeCamp |
 
-Poetry writing: ran a youth poetry club on WeChat, [Example](https://mp.weixin.qq.com/s/NYfBgVDHK5eekF1ruojqxw)
 
-Multimedia writing on WeChat: [multimedia content](https://mp.weixin.qq.com/s/4Rh4jz_zZBbla7NxmFHWoA)
 
-Painting
-
-Music: Post-punk, glitch, and techno
 
