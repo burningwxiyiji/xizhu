@@ -18,7 +18,13 @@ Xinshilin is an interdisciplinary academic organization primarily involving phil
 
 ## Vedio
 
-Academic promotion: 视频号：罗汉堂观点
+Academic promotion: 视频号罗汉堂观点
+
+## GIS
+
+![鄱阳湖水系2005](https://github.com/user-attachments/assets/eab986f0-c5e1-411e-9242-bae74253e5c8)
+![鄱阳湖水系2013](https://github.com/user-attachments/assets/f7fd9cb1-6728-4618-b057-a3eefe348850)
+
 
 ## Extracurricular Seminar
 
