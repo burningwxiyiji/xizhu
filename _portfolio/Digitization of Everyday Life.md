@@ -24,7 +24,5 @@ I also conducted fieldwork on waste classification in Zhejiang, analyzing how hi
 
 <img width="372" alt="image" src="https://github.com/user-attachments/assets/588f5692-8977-4496-86cb-a3ff13b74d04" />
 
-<img width="462" alt="image" src="https://github.com/user-attachments/assets/5983261e-91a1-47f6-9014-1207df4b0b7b" />
-
 
 
