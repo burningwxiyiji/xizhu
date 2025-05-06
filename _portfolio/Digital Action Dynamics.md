@@ -6,9 +6,9 @@ collection: portfolio
 
 ## The Self in Action: Reconfiguring the Unit of Online Social Action
 
-Summary: This paper analyzes the characteristics of the Internet and its formative impact on the self within the context of social action and technological assemblage. It argues that in certain Internet activities, the reflexive self—traditionally grounded in spatiotemporal continuity—is supplanted by a horizontal arrangement of symbols. This shift results in a cognitive deficit, as actions are unable to reference the individual’s identity
+Summary: This paper analyzes the characteristics of the Internet and its formative impact on the self within the context of social action and technological assemblage. It argues that in certain Internet activities, the reflexive self—traditionally grounded in spatiotemporal continuity-is—is supplanted by a horizontal arrangement of symbols. This shift results in a cognitive deficit, as actions are unable to reference the individual’s identity
 
-Here is a very brief diagram of online self inspired by Brubaker：
+Here is a very brief diagram of the online self, which is inspired by Brubaker：
 
 <img src="/xizhu/images/self1.jpg">
 
@@ -26,4 +26,4 @@ We use Agent-Based Modeling for bridge the individual's action and its macro con
 
 <img src="/xizhu/images/textsimulation.jpg" alt="Simulation of Text Accumulation">
 
-You can view more details in this [draft](/xizhu/files/draft of text accumulation.pdf).
+You can view more details in this [draft](/xizhu/files/WS1.pdf).
