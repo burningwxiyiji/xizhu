@@ -40,16 +40,6 @@ Academic Journey
 
 I began with STS-based fieldwork on digital governance, later turning to digital activism and computational approaches. I aim to bridge micro-level interaction with macro-level effects using theory-driven research.
 
-Methods
-------
-
-Quantitative: survey design, correlational stats, ANOVA, factor analysis
-
-Qualitative: fieldwork, interviews, participatory observation, unstructured coding
-
-Computational: R (tidyverse, lavaan, ggplot2), Python (pandas), ABM, basic social network analysis
-
-Platforms: Qualtrics, Git, Google Colab, [huggingface](https://huggingface.co/), [panda documentation](https://pandas.pydata.org/docs/), freecodecamp
 
 ### Research Skills Overview
 
