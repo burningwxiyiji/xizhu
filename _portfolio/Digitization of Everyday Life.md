@@ -15,7 +15,7 @@ As the project lead, I secured a 10,000 RMB grant from Hunan Province (Item No. 
 
 This study examined how digital technologies are embedded in grassroots governance, particularly in areas reliant on local knowledge. During the pandemic, the implementation of the health code illustrated how technical systems restructure social processes. I compared regions where the system was abandoned post-lockdown with urban areas like Shanghai, where it became part of the healthcare infrastructure. 
 
-I also conducted fieldwork on waste classification in Zhejiang, analyzing how high-precision policy demands are sustained through digital systems. [Read report(in Chinese)](https://github.com/user-attachments/files/20052348/default.pdf)
+I also conducted fieldwork on waste classification in Zhejiang, analyzing how high-precision policy demands are sustained through digital systems. [Read report(in Chinese)](https://github.com/user-attachments/files/20075131/default.pdf)
 
 
 ## Research on Gig Labour
