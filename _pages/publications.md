@@ -28,7 +28,7 @@ R&R by Tian Fu Xin Lun(in Chinese)
 
 **The Self in Action: Reconfiguring the Unit of Online Social Action**
 
-**Xizhuzeng**
+**Xizhu Zeng**
 
 Presented at The 9th Lilin Forum, Beijing, 2023.10.15 
 
