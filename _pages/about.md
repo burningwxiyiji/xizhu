@@ -63,8 +63,8 @@ Now, my research explores the dynamics of online text, viewing it as both inform
 |----------------|---------------------------------------------------------------------------------|
 | **Quantitative** | Survey design, correlational statistics, ANOVA, factor analysis                |
 | **Qualitative**  | Fieldwork, interviews, participatory observation, unstructured coding         |
-| **Computational**| R (tidyverse, lavaan, ggplot2), Python ([panda documentation](https://pandas.pydata.org/docs/)), ABM, Web Scraping & API Interaction, Social Network Analysis (SNA), LLM Prompt Engineering |
-| **Platforms**    | Qualtrics, Git, Google Colab, [huggingface](https://huggingface.co/), pandas documentation, freeCodeCamp |
+| **Computational**| R (tidyverse, lavaan, ggplot2), Python ([panda documentation](https://pandas.pydata.org/docs/)), ABM, Web Scraping & API Interaction, Social Network Analysis (SNA), NLP, LLM Prompt Engineering |
+| **Platforms**    | Qualtrics, Git, Google Colab, [huggingface](https://huggingface.co/), freeCodeCamp |
 
 
 
