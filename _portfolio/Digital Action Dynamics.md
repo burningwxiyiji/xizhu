@@ -13,6 +13,16 @@ Here is a very brief diagram of the online self, which is inspired by Brubakerï¼
 <img src="/xizhu/images/self1.jpg">
 
 
+## Analysis of the Weibo gender issue
+
+
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/c55b97e5-a4a2-4058-8eeb-f9ce6c66ea0f" />
+
+<img width="415" alt="image" src="https://github.com/user-attachments/assets/3cff7b04-adb9-4fad-87c9-a3cf99e0e232" />
+
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/1786a82e-9b14-4814-a19f-262843fee387" />
+
+
 ## Rethinking the Relationship Between the Individual and the Collective on Social Media
 
 Summary: This paper argues that social media has enabled a deviation between action and the formation of identity.
