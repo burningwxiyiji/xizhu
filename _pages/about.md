@@ -9,7 +9,7 @@ redirect_from:
 
 ☀️ Hello, welcome to my page!
 
-I'm currently a Master's student in Sociology at [East China University of Science and Technology](https://www.ecust.edu.cn/), and an incoming MA student in [Communication Studies at UT Austin](https://commstudies.utexas.edu/). My core research interests lie at the intersection of digital sociology, political communication, and computational social science.
+I'm currently a Master's student in Sociology at [East China University of Science and Technology](https://www.ecust.edu.cn/), and advised by Professor Wansheng Xiong, who specializes in urban-rural and spatial sociology. Also, I am an incoming MA student in [Communication Studies at UT Austin](https://commstudies.utexas.edu/). My core research interests lie at the intersection of digital sociology, political communication, and computational social science.
 
 I've deferred my admission to UT Austin due to a funding issue. I'm actively using this time to develop my machine learning skills, with the goal of securing a Research Assistant (RA) position with my First Semester Mentor. My academic journey has been strategically shifting towards these computational and communication areas over the past two years, complemented by my theoretical work in digital sociology, which was presented at [the highest-level Chinese Youth Sociologist Forum(Li Lin Forum)](https://mp.weixin.qq.com/s/kBLveoJwuFgBhBEmFrOMxQ).
 
