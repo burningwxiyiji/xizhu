@@ -9,7 +9,7 @@ redirect_from:
 
 ☀️ Hello, welcome to my page!
 
-I am currently a Project Manager in the tech industry, with a background in Sociology (M.A.) from East China University of Science and Technology, where I was advised by Professor Wansheng Xiong. My academic training and ongoing interests lie in digital sociology and political communication. 
+I am currently a Project Manager in the tech industry, with a background in Sociology (M.A.) from East China University of Science and Technology.
 
 Previously, I was admitted to the M.A. program in Communication Studies at UT Austin, with a focus on computational and political communication. I rejected the admission due to funding considerations, but I continue to develop skills in machine learning, data analysis, and computational methods.
 
